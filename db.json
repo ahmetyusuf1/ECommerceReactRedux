@@ -1,0 +1,213 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Smart Phone",
+      "make": "XYZ",
+      "model": "A1",
+      "price": 1500,
+      "stockAmount": 50,
+      "color": "Black",
+      "specs": [
+        "4G LTE connection",
+        "64 GB storage",
+        "5.5 inch screen"
+      ],
+      "image": "https://picsum.photos/201"
+    },
+    {
+      "id": "2",
+      "title": "Laptop",
+      "make": "ABC",
+      "model": "B2",
+      "price": 3000,
+      "stockAmount": 30,
+      "color": "Silver",
+      "specs": [
+        "Intel Core i7 processor",
+        "16 GB RAM",
+        "512 GB SSD"
+      ],
+      "image": "https://picsum.photos/202"
+    },
+    {
+      "id": "3",
+      "title": "Wireless Headphone",
+      "make": "DEF",
+      "model": "C3",
+      "price": 150,
+      "stockAmount": 100,
+      "color": "Yellow",
+      "specs": [
+        "Bluetooth 5.0",
+        "Touch control",
+        "20 hour battery life"
+      ],
+      "image": "https://picsum.photos/203"
+    },
+    {
+      "id": "4",
+      "title": "Smart Watch",
+      "make": "GHI",
+      "model": "D4",
+      "price": 500,
+      "stockAmount": 20,
+      "color": "Metal Gray",
+      "specs": [
+        "GPS",
+        "Heart Rate Sensor",
+        "Waterproof"
+      ],
+      "image": "https://picsum.photos/204"
+    },
+    {
+      "id": "5",
+      "title": "Smart TV",
+      "make": "KLM",
+      "model": "E5",
+      "price": 2500,
+      "stockAmount": 40,
+      "color": "Black",
+      "specs": [
+        "4K Ultra HD",
+        "Smart TV",
+        "50 inch screen"
+      ],
+      "image": "https://picsum.photos/205"
+    },
+    {
+      "id": "6",
+      "title": "Game Laptop",
+      "make": "NOP",
+      "model": "F6",
+      "price": 4000,
+      "stockAmount": 25,
+      "color": "Black",
+      "specs": [
+        "NVIDIA GeForce RTX 4080",
+        "32 GB RAM",
+        "1 TB NVMe SSD"
+      ],
+      "image": "https://picsum.photos/206"
+    },
+    {
+      "id": "14",
+      "title": "Bluetooth Speaker",
+      "make": "QRS",
+      "model": "G7",
+      "price": 120,
+      "stockAmount": 80,
+      "color": "Blue",
+      "specs": [
+        "Wireless charge",
+        "Portable",
+        "10 hour battery life"
+      ],
+      "image": "https://picsum.photos/207"
+    },
+    {
+      "id": "7",
+      "title": "Camera Set",
+      "make": "TUV",
+      "model": "H8",
+      "price": 800,
+      "stockAmount": 15,
+      "color": "Black",
+      "specs": [
+        "4 camera",
+        "Night Vision",
+        "Motion detection"
+      ],
+      "image": "https://picsum.photos/208"
+    },
+    {
+      "id": "8",
+      "title": "Wireless Mouse",
+      "make": "XYZ",
+      "model": "F9",
+      "price": 80,
+      "stockAmount": 60,
+      "color": "Black",
+      "specs": [
+        "Ergonomic design",
+        "1200 DPI",
+        "Bidirectional scrolling"
+      ],
+      "image": "https://picsum.photos/209"
+    },
+    {
+      "id": "9",
+      "title": "Fitness Smart Watch",
+      "make": "ABC",
+      "model": "B10",
+      "price": 120,
+      "stockAmount": 35,
+      "color": "Purple",
+      "specs": [
+        "Heart Rate Sensor",
+        "Step counter",
+        "Sleep tracking"
+      ],
+      "image": "https://picsum.photos/210"
+    },
+    {
+      "id": "10",
+      "title": "Portable SSD",
+      "make": "DEF",
+      "model": "C11",
+      "price": 200,
+      "stockAmount": 45,
+      "color": "Gray",
+      "specs": [
+        "500 GB storage",
+        "USB-C connection",
+        "Fast data transfer"
+      ],
+      "image": "https://picsum.photos/211"
+    },
+    {
+      "id": "11",
+      "title": "Gaming Keyboard and Mouse Set",
+      "make": "GHI",
+      "model": "D12",
+      "price": 150,
+      "stockAmount": 25,
+      "color": "White",
+      "specs": [
+        "Mechanical keys",
+        "Programmable keys",
+        "Optical game mouse"
+      ],
+      "image": "https://picsum.photos/212"
+    }
+  ],
+  "basket": [
+    {
+      "id": "2",
+      "make": "ABC",
+      "model": "B2",
+      "price": 3000,
+      "stockAmount": 30,
+      "image": "https://picsum.photos/202",
+      "amount": 1
+    },
+    {
+      "id": "3",
+      "make": "DEF",
+      "model": "C3",
+      "price": 150,
+      "stockAmount": 100,
+      "image": "https://picsum.photos/203",
+      "amount": 2
+    },
+    {
+      "id": "4",
+      "make": "GHI",
+      "model": "D4",
+      "price": 500,
+      "stockAmount": 20,
+      "image": "https://picsum.photos/204",
+      "amount": 2
+    }
+  ]
+}
