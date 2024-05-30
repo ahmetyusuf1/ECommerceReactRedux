@@ -183,12 +183,12 @@
   ],
   "basket": [
     {
-      "id": "2",
-      "make": "ABC",
-      "model": "B2",
-      "price": 3000,
-      "stockAmount": 30,
-      "image": "https://picsum.photos/202",
+      "id": "1",
+      "make": "XYZ",
+      "model": "A1",
+      "price": 1500,
+      "stockAmount": 50,
+      "image": "https://picsum.photos/201",
       "amount": 1
     },
     {
@@ -198,16 +198,7 @@
       "price": 150,
       "stockAmount": 100,
       "image": "https://picsum.photos/203",
-      "amount": 2
-    },
-    {
-      "id": "4",
-      "make": "GHI",
-      "model": "D4",
-      "price": 500,
-      "stockAmount": 20,
-      "image": "https://picsum.photos/204",
-      "amount": 2
+      "amount": 3
     }
   ]
 }
